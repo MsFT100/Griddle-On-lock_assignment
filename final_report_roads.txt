@@ -1,0 +1,4 @@
+In Station - Number Vehicles are: 1
+In University - Number Vehicles are: 2
+In Station - Number Vehicles are: 6
+In Industrial Park - Number Vehicles are: 0

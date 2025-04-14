@@ -1,0 +1,20 @@
+Car Park: University CarPark
+Capacity: 100
+Occupied Spaces: 22
+Available Spaces: 78
+
+Car Park: Station CarPark
+Capacity: 150
+Occupied Spaces: 17
+Available Spaces: 133
+
+Car Park: Shopping Centre CarPark
+Capacity: 400
+Occupied Spaces: 11
+Available Spaces: 389
+
+Car Park: Industrial CarPark
+Capacity: 1000
+Occupied Spaces: 29
+Available Spaces: 971
+
